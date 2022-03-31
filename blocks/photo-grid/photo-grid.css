@@ -9,7 +9,7 @@
   margin-bottom: 0;
 }
 
-@media (max-width : 1279px) {
+@media (max-width:1279px) {
 	.photo-grid {
         max-width: 928px;
         grid-template-columns:repeat(auto-fill,300px);
@@ -17,7 +17,7 @@
     }
 }
 
-@media (max-width : 1023px) {
+@media (max-width:1023px) {
 	.photo-grid {
         max-width: 720px;
         grid-template-columns:repeat(auto-fill,350px);
@@ -26,7 +26,7 @@
     }
 }
 
-@media (max-width : 767px) {
+@media (max-width:767px) {
 	.photo-grid {
         max-width: 390px;
         grid-template-columns:1fr;
@@ -34,7 +34,7 @@
     }
 }
 
-@media (max-width : 374px) {
+@media (max-width:374px) {
 	.photo-grid {
         max-width: 288px;
         grid-row-gap: 12px;
