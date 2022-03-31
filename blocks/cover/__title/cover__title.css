@@ -13,19 +13,19 @@
     
 }
 
-@media (max-width : 1279px) {
+@media (max-width:1279px) {
 	.cover__title {
         margin-top: 195px;
     }
 }
 
-@media (max-width : 1023px) {
+@media (max-width:1023px) {
 	.cover__title {
         margin-top: 115px;
     }
 }
 
-@media (max-width : 767px) {
+@media (max-width:767px) {
 	.cover__title {
         font-size: 2rem;
         line-height: 35px;
@@ -34,7 +34,7 @@
     }
 }
 
-@media (max-width : 374px) {
+@media (max-width: 374px) {
 	.cover__title {
         margin-top: 33px;
         max-width: 288px;
