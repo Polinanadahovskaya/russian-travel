@@ -24,3 +24,19 @@
 ## Описание
 
 Одностраничный сайт "Путешествие по России". Адаптивная вёрстка по макету Figma.
+
+№ Project 3: Travel across russia
+The adaptive single page website, developed with a Figma prototype. The webpage is optimized for screen sizes of 320px wide to infinity. The desktop-first approach is used.
+
+## Stack
+* HTML
+* CSS
+
+## Realization
+* Grid Layout
+* Flexbox
+* Media queries
+* Relative units
+
+## Figma
+* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
